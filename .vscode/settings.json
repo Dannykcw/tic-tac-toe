@@ -1,0 +1,13 @@
+{
+    "makefile.configurations": [
+        {
+            "name": "Default",
+            "problemMatchers": [
+                "$gcc",
+                "$clang"
+            ]
+        }
+    ],
+    "makefile.compileCommandsPath": ".vscode/compile_commands.json",
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}/.vscode/compile_commands.json"
+}

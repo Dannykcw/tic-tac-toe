@@ -1,0 +1,12 @@
+[
+    {
+        "command": "cc  -c tic_tac_toe.c tic_tac_toe.h",
+        "directory": "/Users/dannyk/Documents/tic_tac_toe",
+        "file": "/Users/dannyk/Documents/tic_tac_toe/tic_tac_toe.c"
+    },
+    {
+        "command": "cc  -c win.c win.h",
+        "directory": "/Users/dannyk/Documents/tic_tac_toe",
+        "file": "/Users/dannyk/Documents/tic_tac_toe/win.c"
+    }
+]
